@@ -1,0 +1,1 @@
+from .smith_waterman import smith_waterman_alignment
